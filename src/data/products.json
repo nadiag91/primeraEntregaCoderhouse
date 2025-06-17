@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Leche Entera Larga Vida",
+    "description": "Leche pasteurizada, fortificada con vitaminas A y D.",
+    "code": "LEC001",
+    "price": 1.50,
+    "status": true,
+    "stock": 150,
+    "category": "Lácteos",
+    "thumbnails": [
+      "leche_entera.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pan de Molde Blanco",
+    "description": "Pan suave y fresco, ideal para tostadas o sándwiches.",
+    "code": "PAN002",
+    "price": 2.25,
+    "status": true,
+    "stock": 80,
+    "category": "Panadería",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Aceite de Girasol Alto Oleico",
+    "description": "Aceite vegetal de alta calidad, fuente de Omega 9.",
+    "code": "ACEI003",
+    "price": 4.99,
+    "status": true,
+    "stock": 60,
+    "category": "Aceites",
+    "thumbnails": [
+      "aceite_girasol.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cereal de Avena Integral",
+    "description": "Copos de avena integral para un desayuno nutritivo y energético.",
+    "code": "CER004",
+    "price": 3.70,
+    "status": true,
+    "stock": 100,
+    "category": "Desayuno",
+    "thumbnails": [
+      "cereal_avena_1.jpg",
+      "cereal_avena_2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Detergente Líquido Concentrado",
+    "description": "Detergente de alta eficacia para la limpieza profunda de la ropa.",
+    "code": "LIMPI005",
+    "price": 7.80,
+    "status": true,
+    "stock": 45,
+    "category": "Limpieza",
+    "thumbnails": [
+      "detergente_liquido.jpg"
+    ]
+  }
+]
